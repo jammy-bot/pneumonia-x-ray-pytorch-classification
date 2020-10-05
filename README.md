@@ -1,5 +1,5 @@
 # pneumonia-x-ray-pytorch-classification
-Using deep learning in Pytorch to classify normal and pneumonia chest x-ray images. Based on
+Using deep learning in Pytorch to classify normal and pneumonia chest x-ray images. Based on https://github.com/jammy-bot/pneumonia-x-ray-deep-learning-classification.
 
 <!-- #region -->
 !["image"](# # #.jpg)<p style="margin-left:10%;">Description</p>
